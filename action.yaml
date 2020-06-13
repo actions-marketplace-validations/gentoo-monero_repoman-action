@@ -1,0 +1,5 @@
+name: Repoman
+description: Validate an ebuild repository using repoman
+runs:
+  using: docker
+  image: Dockerfile
