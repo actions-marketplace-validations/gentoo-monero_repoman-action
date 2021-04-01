@@ -2,6 +2,10 @@
 
 This action runs [Gentoo Repoman](https://wiki.gentoo.org/wiki/Repoman).
 
+## Note
+
+Consider using [pkgcore/pkgcheck-action](https://github.com/pkgcore/pkgcheck-action) instead.
+
 ## Inputs
 
 None.
